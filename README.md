@@ -1,7 +1,9 @@
 # Yui-Discord-Project
 
 ## For english users
-English version is [here](りんく)!
+~~English version is [here](りんく)!~~
+English version is currently being prepared...
+Please wait.
 
 ## 概要
 多機能DiscordBot「結/ゆい」のProjectページです。
